@@ -22,7 +22,7 @@
 </svelte:head>
 
 {#if browser}
-	<div class="flex gap-5 fixed top-5 right-10 z-50 text-white">
+	<div class="flex text-center md:text-left gap-5 fixed top-5 right-10 z-50 text-white">
 		<a href="https://svelte.dev/docs/svelte/overview" target="_blank" rel="noreferrer">Svelte Docs</a>
 		<a href="https://svelte.dev/playground/hello-world" class="mr-5" target="_blank" rel="noreferrer">Have fun in Svelte Playground!</a>
 		<button onclick={() => switchToLanguage('en')}>en</button>
