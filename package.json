@@ -41,5 +41,9 @@
 		"@sveltejs/adapter-vercel": "^5.4.6",
 		"@types/reveal.js": "^5.0.4",
 		"reveal.js": "^5.1.0"
+	},
+	"resolutions": {
+		"strip-ansi": "6.0.1",
+		"string-width": "4.2.3"
 	}
 }
