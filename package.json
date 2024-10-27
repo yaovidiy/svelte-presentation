@@ -38,6 +38,7 @@
 		"@fontsource/jetbrains-mono": "^5.1.1",
 		"@fontsource/manrope": "^5.1.0",
 		"@inlang/paraglide-sveltekit": "^0.11.1",
+		"@sveltejs/adapter-vercel": "^5.4.6",
 		"@types/reveal.js": "^5.0.4",
 		"reveal.js": "^5.1.0"
 	}
