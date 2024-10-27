@@ -1,3 +1,22 @@
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
+
+
+.hljs {
+	background: none;
+}
+
+.hljs-title,
+.hljs-keyword {
+	font-weight: normal;
+}
+
+.reveal pre,
+.reveal code {
+	scrollbar-width: none;
+}
+
+.reveal pre {
+	box-shadow: none;
+}

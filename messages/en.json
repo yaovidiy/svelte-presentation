@@ -1,4 +1,14 @@
 {
   "$schema": "https://inlang.com/schema/inlang-message-format",
-  "hello_world": "Hello, {name} from en!"
+  "appTitle": "Why Svelte is awesome",
+  "what_is_svelte": "What is Svelte?",
+  "svelte_is": "According to the official documentation. Svelte is a UI framework that uses a compiler to allow you to create outrageously concise components that do as little work as possible in the browser, using what you already know - JavaScript, HTML, CSS.",
+  "what_make_svelte_special": "What makes Svelte special?",
+  "svelte_is_special": "Svelte differs from other frameworks in that it compiles your code to clean JavaScript at build time, rather than using a virtual DOM. This means your code runs faster, and you can use regular JavaScript, HTML, and CSS without needing to learn new concepts.",
+  "compare_svelte": "Compare Svelte to other frameworks",
+  "svelte_vs_react": "Svelte vs React",
+  "svelte_vs_react_text_1": "React uses a virtual DOM, which means it can be slower than Svelte. React also requires learning JSX, which is a new syntax for many developers.",
+  "svelte_vs_react_text_2": "Svelte compiles your code to clean JavaScript, which means it runs faster than React. You can use regular JavaScript, HTML, and CSS without needing to learn new concepts.",
+  "svelte_vs_react_text_3": "In many cases, Svelte code will be less than in React",
+  "svelte_vs_react_example": "Example: Component comparison"
 }
